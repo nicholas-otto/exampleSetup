@@ -8,7 +8,7 @@ Run
 yarn dev
 ```
 
-login:
+login
 name: admin
 email: admin@gmail.com
 Password: adminPassword
