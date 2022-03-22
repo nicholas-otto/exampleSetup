@@ -8,9 +8,12 @@ Run
 yarn dev
 ```
 
-login
+Login:
+
 name: admin
+
 email: admin@gmail.com
+
 Password: adminPassword
 
 To view the config for your new app, look at [./keystone.ts](./keystone.ts)
