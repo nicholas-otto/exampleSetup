@@ -10,11 +10,12 @@ yarn dev
 
 Login:
 
-name: admin
+Name: admin
 
-email: admin@gmail.com
+Email: admin@gmail.com
 
 Password: adminPassword
+
 
 To view the config for your new app, look at [./keystone.ts](./keystone.ts)
 
